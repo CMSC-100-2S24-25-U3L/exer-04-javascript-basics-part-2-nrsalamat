@@ -11,7 +11,7 @@ Steps in creating a GitHub page:
 4. Go to <GitHub Classroom name>.github.io/<repository name>/
 
 What are your key takeaways from this exercise?
-- 
+- In this exercise, I further refined my programming skills in JavaScript by learning how to import and export modules.
 
 References:
 - [UUID] (https://www.npmjs.com/package/uuid)
