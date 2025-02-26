@@ -13,5 +13,8 @@ Steps in creating a GitHub page:
 What are your key takeaways from this exercise?
 - 
 
-Reference:
-- 
+References:
+- [UUID] (https://www.npmjs.com/package/uuid)
+- [Validator] (https://www.npmjs.com/package/validator)
+- [Write to File] (https://nodejs.org/api/fs.html#fsappendfilesyncpath-data-options)
+- [String Slicing] (https://www.w3schools.com/jsref/jsref_slice_string.asp)
